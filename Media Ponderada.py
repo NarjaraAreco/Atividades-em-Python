@@ -1,3 +1,8 @@
+"""Leia 4 notas e a quantidade de faltas de um aluno, calcule a média ponderada com pesos 1, 2, 3 e 4. Considerando que a média é 6,0, 
+escreva se o aluno foi aprovado ou não. 
+Ele reprova com 25% de 102. Tem que escrever a média com 2 casas decimais.
+"""
+
 nota1 = float(input("Digite a nota 1: "))
 nota2 = float(input("Digite a nota 2: "))
 nota3 = float(input("Digite a nota 3: "))

@@ -1,3 +1,7 @@
+"""
+Leia um número e verifique se ele é divisivel por 3, por 5, pelos 2 ou por nenhum deles
+"""
+
 num = int(input("Digite um número: "))
 verificacao1 = num % 3
 verificacao2 = num % 5

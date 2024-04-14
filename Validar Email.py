@@ -1,3 +1,5 @@
+#⁠Leia um e-mail e escreva se é válido ou não.
+
 email = input("Digite seu email: ")
 # emailArroba =
 if (email.find("@") == -1) or (email.find(".") == -1):

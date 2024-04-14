@@ -1,3 +1,5 @@
+#Lleia 3 lados de um triângulo e verifique, caso formem um triângulo, se é triângulo escaleno, isósceles ou equilátero.
+
 x = int(input())
 y = int(input())
 p = int(input())
